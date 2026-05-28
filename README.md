@@ -30,3 +30,5 @@ fedratd_ml/
 ├── README.md           # Core project documentation and technical overview
 ├── app.py              # Front-end dashboard configuration and execution engine
 └── mg.py               # Deep learning infrastructure, training loops, and aggregation math
+
+to be continued 
